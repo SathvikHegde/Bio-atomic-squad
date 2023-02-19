@@ -45,6 +45,7 @@
 }
 
 body {
+  background: #272829 !important;
   font-family: 'BioRhyme', serif !important;
   font-size: 64px;
 }
